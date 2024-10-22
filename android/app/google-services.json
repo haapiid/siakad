@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386436101872",
+    "project_id": "siap-67096",
+    "storage_bucket": "siap-67096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386436101872:android:3457226214e2e3fd69f435",
+        "android_client_info": {
+          "package_name": "com.rha.siap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_387AcBfiwONI3Y5ijWxfK_ClVvyN6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386436101872:android:11fe356a505092d069f435",
+        "android_client_info": {
+          "package_name": "com.rha.siap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_387AcBfiwONI3Y5ijWxfK_ClVvyN6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
